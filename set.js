@@ -1,7 +1,7 @@
 global.prefix = '/'; // Set Your Preferred Prefix
 global.botName = 'SHINITA THA HELPER'; // Bot Name
 global.botVersion = '2.0.0';
-global.botPic = 'https://files.giftedtech.web.id/file/gifted-md.jpg'; // Can use path, can also use link
+global.botPic = 'https://i.ibb.co/bjsD8mKS/Polish-20250312-232318659.jpg'; // Can use path, can also use link
 global.botToken = '8101271272:AAH2IbEW8HH6e4U-D5GyuO_S_v4geQzGA54'; // Replace With Your Bot Token (Get it from BotFather)
 global.ownerUsername = 'TcronebNet'; // Replace With Your Telegram Username(For Bot Owner)
 global.timeZone = 'Africa/Harare'; // Your Time Zone
